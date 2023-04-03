@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-"""creating class rectangle"""
+""" module that created a rectangle class """
 class Rectangle:
 
-    """we execute pass statement to avoid getting error in this code"""
+    """ does nothing"""
     pass
