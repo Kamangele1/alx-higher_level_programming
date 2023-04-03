@@ -3,13 +3,15 @@
 
 
 class Rectangle:
-    """ initializing with values height and width
+
+    """ 
+    initializing with values height and width
     Args:
         width: measurements of width its length
         height: how tall the rectangle
         return: nothing
     """
-    def height: def __init__(self, width=0, height=0):
+    def __init__(self, width=0, height=0):
         self.width = width
         self.height = height
 
