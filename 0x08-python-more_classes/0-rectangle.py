@@ -2,5 +2,6 @@
 """ module that created a rectangle class """
 class Rectangle:
 
+
     """ does nothing"""
     pass
