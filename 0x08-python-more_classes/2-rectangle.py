@@ -8,7 +8,7 @@ class Rectangle:
     Args:
         width: how long is the rectangle
         height:how tall the rectangle is
-        return: nothing
+    return: nothing
     
     """
 
@@ -49,7 +49,4 @@ class Rectangle:
         """ perimeter is 2 * (height + width) """
         if self.__ width is 0 or self.__height is 0:
             return 0
-        return 2 * (self.__width + self.__height)
-            
-    
-
+        return   self.__width + self.__width + self.__height + self.__height
