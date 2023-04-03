@@ -2,7 +2,9 @@
 """ more with class rectangle """
 
 class Rectangle:
-     """intializing width and height with value checks
+
+     """
+     intializing width and height with value checks
     Args:
         width: how long is the rectangle
         height:how tall the rectangle is
@@ -11,6 +13,7 @@ class Rectangle:
     def __init__(self, width=0, height=0):
         self.__width = width
         self.__height = height
+
     @property
     def width(self):
         return self.__width
